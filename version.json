@@ -2,11 +2,9 @@
   "tww_addon": {
     "version": "1.0.0-TWW",
     "url": "https://github.com/Warpexx/NewTest/archive/refs/heads/main.zip" 
-    // ^^^ TWW Sürümünün direkt ZIP indirme linki
   },
   "v735_addon": {
     "version": "7.3.5-1.0",
     "url": "https://github.com/Warpexx/7.3.5/archive/refs/heads/main.zip"
-    // ^^^ 7.3.5 Sürümünün direkt ZIP indirme linki
   }
 }
